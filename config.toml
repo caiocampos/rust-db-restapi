@@ -1,0 +1,3 @@
+[database]
+url="postgres://user:pass@server:port/database"
+pool_size=10
