@@ -1,5 +1,0 @@
-[database]
-url="postgres://ciazqpac:C_J_oD1ExNISKlqPUQqq8EQWijVPVPwP@tuffi.db.elephantsql.com:5432/ciazqpac"
-pool_size=1
-# url="postgres://user:pass@server:port/database"
-# pool_size=10
