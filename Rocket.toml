@@ -1,0 +1,12 @@
+[development]
+address = "localhost"
+workers = 1
+port = 4000
+
+[staging]
+workers = 8
+port = 80
+
+[production]
+workers = 16
+port = 80
