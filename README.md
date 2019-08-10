@@ -12,11 +12,12 @@ https://www.rust-lang.org/tools/install
 
 ### Atenção
 
-Instale a versão nightly, atualmente o framework rocket depende desta versão. No caso de ser uma instalação em Windows, é recomendado instalar a versão MSVC.
+`Instale a versão nightly, atualmente o framework rocket depende desta versão. No caso de ser uma instalação em Windows, é recomendado instalar a versão MSVC.`
 
-Pode ser necessário instalar dependências do banco de dados, para isso confira as instruções no site:
+`Pode ser necessário instalar dependências do banco de dados, para isso confira as instruções no site:`
 
 https://github.com/diesel-rs/diesel/blob/master/guide_drafts/backend_installation.md
+
 
 Antes de executar modifique o arquivo config.toml para apontar para o PostgreSQL instalado.
 
