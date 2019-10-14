@@ -1,5 +1,6 @@
 # rust-db-restapi
 
+[![DepShield Badge](https://depshield.sonatype.org/badges/caiocampos/rust-db-restapi/depshield.svg)](https://depshield.github.io)
 [![License](https://img.shields.io/github/license/caiocampos/rust-db-restapi.svg)](LICENSE)
 
 Servidor Rust simples com conexão ao PostgresSQL
