@@ -1,5 +1,6 @@
 # rust-db-restapi
 
+[<img src="https://api.travis-ci.org/caiocampos/rust-db-restapi.svg?branch=master">](https://travis-ci.org/caiocampos/rust-db-restapi)
 [![DepShield Badge](https://depshield.sonatype.org/badges/caiocampos/rust-db-restapi/depshield.svg)](https://depshield.github.io)
 [![GuardRails Badge](https://badges.guardrails.io/caiocampos/rust-db-restapi.svg)](https://www.guardrails.io/)
 [![License](https://img.shields.io/github/license/caiocampos/rust-db-restapi.svg)](LICENSE)
