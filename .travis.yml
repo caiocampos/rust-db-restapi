@@ -1,0 +1,12 @@
+os:
+  - linux
+
+language: rust
+
+rust:
+- nightly
+
+script:
+  - cargo update
+  - cargo build
+  - cargo test
