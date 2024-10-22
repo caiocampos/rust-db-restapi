@@ -1,1 +1,1 @@
-pub mod client_schema;
+pub mod clients_schema;
